@@ -48,7 +48,7 @@ investigation what to do with it.
 
 (45 min)
 
-[SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata/tree/main/typescript)
+[GildedRose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/TypeScript)
 
 - Set up coverage tool in your IDE
 - Practice identifying test cases and scenarios from missing coverage
